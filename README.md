@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh-8826
+- 👋 Hi, I’m @Harsh
 - 👀 I’m interested in Cyber Security and Ethical Hacking.
 - 🌱 I have completed my Diploma In Cyber Security and earned a certificate of Certified Ethical Hacker(CEH).
 - 💞️ I’m looking to collaborate with various hackers and cyber security experts.
